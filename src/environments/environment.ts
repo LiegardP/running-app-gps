@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  MAPBOX_API_KEY: 'pk.eyJ1IjoibGllZ2FyZHAiLCJhIjoiY2prZ3Y2NW94MG5rbDNrcDl0cnJnNW4yMiJ9.9F8UBSm5S4qDSh07UI8U-A'
+  MAPBOX_API_KEY: ''
 };
 
 /*
