@@ -1,0 +1,43 @@
+.row-runs{
+    background-color: rgba(255,255,255,0.75);
+    max-width: 800px;
+    margin: 25px auto auto;
+    padding: 10px 32px;
+  }
+  
+  td{
+    font-size: 14px;
+  }
+  
+  table>tbody>tr:hover{
+    background-color: rgb(54, 134, 209);
+  }
+  
+  td > a{
+    color: #ff1744;
+  }
+  
+  td > a:hover{
+    text-decoration: none;
+    color: #ff5252;
+  }
+  
+  hr{
+    border-color: #ddd;
+  }
+  
+  .summary{
+    font-size: 14px;
+  }
+  
+  .heading{
+    font-family: 'Fjalla One', sans-serif;
+  }
+  
+  .totals{
+    display: inline;
+    font-family: 'Fjalla One', sans-serif;
+    color:#333;
+    margin: 2px;
+  }
+  
